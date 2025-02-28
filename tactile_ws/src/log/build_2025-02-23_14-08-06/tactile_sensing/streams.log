@@ -1,0 +1,33 @@
+[0.310s] Invoking command in '/home/amey/robot_learning/tactile_ws/src/tactile_sensing': PYTHONPATH=/home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tactile_sensing build --build-base /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build install --record /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/install.log --single-version-externally-managed install_data
+[0.436s] running egg_info
+[0.437s] creating ../build/tactile_sensing/tactile_sensing.egg-info
+[0.437s] writing ../build/tactile_sensing/tactile_sensing.egg-info/PKG-INFO
+[0.437s] writing dependency_links to ../build/tactile_sensing/tactile_sensing.egg-info/dependency_links.txt
+[0.437s] writing entry points to ../build/tactile_sensing/tactile_sensing.egg-info/entry_points.txt
+[0.437s] writing requirements to ../build/tactile_sensing/tactile_sensing.egg-info/requires.txt
+[0.437s] writing top-level names to ../build/tactile_sensing/tactile_sensing.egg-info/top_level.txt
+[0.437s] writing manifest file '../build/tactile_sensing/tactile_sensing.egg-info/SOURCES.txt'
+[0.438s] reading manifest file '../build/tactile_sensing/tactile_sensing.egg-info/SOURCES.txt'
+[0.438s] writing manifest file '../build/tactile_sensing/tactile_sensing.egg-info/SOURCES.txt'
+[0.438s] running build
+[0.438s] running build_py
+[0.438s] creating /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build
+[0.438s] creating /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build/lib
+[0.439s] creating /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build/lib/tactile_sensing
+[0.439s] copying tactile_sensing/__init__.py -> /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build/lib/tactile_sensing
+[0.439s] running install
+[0.439s] running install_lib
+[0.439s] creating /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/lib/python3.10/site-packages/tactile_sensing
+[0.439s] copying /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build/lib/tactile_sensing/__init__.py -> /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/lib/python3.10/site-packages/tactile_sensing
+[0.439s] byte-compiling /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/lib/python3.10/site-packages/tactile_sensing/__init__.py to __init__.cpython-310.pyc
+[0.439s] running install_data
+[0.439s] creating /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/share/ament_index
+[0.439s] creating /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/share/ament_index/resource_index
+[0.439s] creating /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/share/ament_index/resource_index/packages
+[0.439s] copying resource/tactile_sensing -> /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/share/ament_index/resource_index/packages
+[0.440s] copying package.xml -> /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/share/tactile_sensing
+[0.440s] running install_egg_info
+[0.440s] Copying ../build/tactile_sensing/tactile_sensing.egg-info to /home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/lib/python3.10/site-packages/tactile_sensing-0.0.0-py3.10.egg-info
+[0.440s] running install_scripts
+[0.451s] writing list of installed files to '/home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/install.log'
+[0.464s] Invoked command in '/home/amey/robot_learning/tactile_ws/src/tactile_sensing' returned '0': PYTHONPATH=/home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amey/robot_learning/tactile_ws/src/install/tactile_sensing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/tactile_sensing build --build-base /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/build install --record /home/amey/robot_learning/tactile_ws/src/build/tactile_sensing/install.log --single-version-externally-managed install_data

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing tactile_sensing.egg-info/PKG-INFO
+writing dependency_links to tactile_sensing.egg-info/dependency_links.txt
+writing entry points to tactile_sensing.egg-info/entry_points.txt
+writing requirements to tactile_sensing.egg-info/requires.txt
+writing top-level names to tactile_sensing.egg-info/top_level.txt
+reading manifest file 'tactile_sensing.egg-info/SOURCES.txt'
+writing manifest file 'tactile_sensing.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/python3.10/site-packages/tactile-sensing.egg-link (link to .)
+Installing listener script to /home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/tactile_sensing
+Installing talker script to /home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/tactile_sensing
+
+Installed /home/amey/robot_learning/tactile_ws/build/tactile_sensing
+running symlink_data

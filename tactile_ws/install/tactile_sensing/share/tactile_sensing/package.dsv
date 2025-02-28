@@ -1,0 +1,9 @@
+source;share/tactile_sensing/hook/pythonpath.ps1
+source;share/tactile_sensing/hook/pythonpath.dsv
+source;share/tactile_sensing/hook/pythonpath.sh
+source;share/tactile_sensing/hook/ament_prefix_path.ps1
+source;share/tactile_sensing/hook/ament_prefix_path.dsv
+source;share/tactile_sensing/hook/ament_prefix_path.sh
+source;../../build/tactile_sensing/share/tactile_sensing/hook/pythonpath_develop.ps1
+source;../../build/tactile_sensing/share/tactile_sensing/hook/pythonpath_develop.dsv
+source;../../build/tactile_sensing/share/tactile_sensing/hook/pythonpath_develop.sh

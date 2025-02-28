@@ -1,0 +1,4 @@
+[console_scripts]
+listener = tactile_sensing.subscriber_fn:main
+talker = tactile_sensing.publisher_member_function:main
+

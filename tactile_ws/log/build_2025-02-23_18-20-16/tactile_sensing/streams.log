@@ -1,0 +1,18 @@
+[0.360s] Invoking command in '/home/amey/robot_learning/tactile_ws/build/tactile_sensing': PYTHONPATH=/home/amey/robot_learning/tactile_ws/build/tactile_sensing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amey/robot_learning/tactile_ws/build/tactile_sensing/build --no-deps symlink_data
+[0.503s] running develop
+[0.584s] running egg_info
+[0.584s] writing tactile_sensing.egg-info/PKG-INFO
+[0.584s] writing dependency_links to tactile_sensing.egg-info/dependency_links.txt
+[0.584s] writing entry points to tactile_sensing.egg-info/entry_points.txt
+[0.584s] writing requirements to tactile_sensing.egg-info/requires.txt
+[0.584s] writing top-level names to tactile_sensing.egg-info/top_level.txt
+[0.585s] reading manifest file 'tactile_sensing.egg-info/SOURCES.txt'
+[0.585s] writing manifest file 'tactile_sensing.egg-info/SOURCES.txt'
+[0.586s] running build_ext
+[0.587s] Creating /home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/python3.10/site-packages/tactile-sensing.egg-link (link to .)
+[0.587s] Installing listener script to /home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/tactile_sensing
+[0.587s] Installing talker script to /home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/tactile_sensing
+[0.587s] 
+[0.587s] Installed /home/amey/robot_learning/tactile_ws/build/tactile_sensing
+[0.587s] running symlink_data
+[0.603s] Invoked command in '/home/amey/robot_learning/tactile_ws/build/tactile_sensing' returned '0': PYTHONPATH=/home/amey/robot_learning/tactile_ws/build/tactile_sensing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amey/robot_learning/tactile_ws/install/tactile_sensing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/amey/robot_learning/tactile_ws/build/tactile_sensing/build --no-deps symlink_data
